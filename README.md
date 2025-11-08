@@ -1,5 +1,5 @@
 <!-- 🌟 Profile README by Phan Hữu Lộc -->
-<img width="100%" height="400" alt="image" src="https://github.com/user-attachments/assets/9a98fb62-67e9-4fd2-87f7-25f2a43d39bd" />
+<img width="100%" height="360" alt="image" src="https://github.com/user-attachments/assets/9a98fb62-67e9-4fd2-87f7-25f2a43d39bd" />
 
 <h1 align="center">Hi 👋, I'm Phan Hữu Lộc</h1>
 <h3 align="center">🚀 A Software Engineering Student from Vietnam</h3>
